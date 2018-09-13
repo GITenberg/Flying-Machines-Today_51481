@@ -1,5 +1,8 @@
 _repo: Flying-Machines-Today_51481
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51481-h/images/cover.jpg
 creator:
   author:
     agent_name: Ennis, William D. (William Duane)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46429'
     url: http://www.gutenberg.org/2009/agents/46429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51481#Flying-Machines-Today
 gutenberg_issued: '2016-03-17'
 gutenberg_type: Text
 identifiers:
